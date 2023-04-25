@@ -34,4 +34,4 @@ Jeu de données constitué des images de fruits et des labels associés, qui pou
 ## Architecture AWS : 
 ____
 
-(![image](https://user-images.githubusercontent.com/105881992/234012552-e68b8263-964c-4579-9aa6-cc096f60f79b.png)
+![image](https://user-images.githubusercontent.com/105881992/234012552-e68b8263-964c-4579-9aa6-cc096f60f79b.png)
