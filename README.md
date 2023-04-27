@@ -20,11 +20,10 @@ De plus, le développement de l’application mobile permettra de construire **u
 ## Objectif :
 ____________
 
-
     Développer, dans un environnement Big Data, une première chaîne de traitement des données qui comprendra le preprocessing et une étape de réduction de dimension
     
 - ---
-![Fruits - BigData](https://im2.ezgif.com/tmp/ezgif-2-0d464c929c.png)
+![AWSFRUITS](https://user-images.githubusercontent.com/105881992/234867977-7d1215e1-b7d6-4439-b9fd-18bf850d5a5b.png)
 
 _____
 ### Source : 
